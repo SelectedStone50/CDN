@@ -2,6 +2,6 @@
 <item>
     <version>1.0.0.0</version>
     <url>https://github.com/SelectedStone50/Tracker-Updates/raw/master/Debug.zip</url>
-    <changelog></changelog>
+    <changelog>https://github.com/SelectedStone50/Tracker-Updates/raw/master/Debug.zip</changelog>
     <mandatory>false</mandatory>
 </item>
