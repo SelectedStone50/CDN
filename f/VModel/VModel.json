@@ -1,0 +1,81 @@
+{
+    "Backups": {
+        "FortniteGame_10_40.fbkp":"http://cdn.asval.tk/d/FModel/Backups/FortniteGame_10_40.fbkp",
+        "FortniteGame_11_00.fbkp":"http://cdn.asval.tk/d/FModel/Backups/FortniteGame_11_00.fbkp",
+        "FortniteGame_11_01.fbkp":"http://cdn.asval.tk/d/FModel/Backups/FortniteGame_11_01.fbkp",
+        "FortniteGame_11_10.fbkp":"http://cdn.asval.tk/d/FModel/Backups/FortniteGame_11_10.fbkp",
+        "FortniteGame_11_20.fbkp":"http://cdn.asval.tk/d/FModel/Backups/FortniteGame_11_20.fbkp",
+        "FortniteGame_11_30.fbkp":"http://cdn.asval.tk/d/FModel/Backups/FortniteGame_11_30.fbkp",
+        "FortniteGame_11_40.fbkp":"http://cdn.asval.tk/d/FModel/Backups/FortniteGame_11_40.fbkp",
+        "FortniteGame_11_50.fbkp":"http://cdn.asval.tk/d/FModel/Backups/FortniteGame_11_50.fbkp",
+        "FortniteGame_12_00.fbkp":"http://cdn.asval.tk/d/FModel/Backups/FortniteGame_12_00.fbkp",
+        "FortniteGame_12_10.fbkp":"http://cdn.asval.tk/d/FModel/Backups/FortniteGame_12_10.fbkp",
+        "FortniteGame_12_20.fbkp":"http://cdn.asval.tk/d/FModel/Backups/FortniteGame_12_20.fbkp",
+        "FortniteGame_12_30.fbkp":"http://cdn.asval.tk/d/FModel/Backups/FortniteGame_12_30.fbkp"
+    },
+    "Global_Messages": 
+    {
+        "3.0.4.3": [
+            {
+                "Message" : "",
+                "Color" : "#EFEFEF",
+                "bNewLine": true
+            }
+        ],
+        "3.0.4.2": [
+            {
+                "Message" : "",
+                "Color" : "#EFEFEF",
+                "bNewLine": true
+            }
+        ],
+        "3.0.4.1": [
+            {
+                "Message" : "Custom Challenges' Theme:",
+                "Color" : "#61AFEF",
+                "bNewLine": true
+            },
+            {
+                "Message" : "   - Currently ",
+                "Color" : "#EFEFEF",
+                "bNewLine": false
+            },
+            {
+                "Message" : "not working",
+                "Color" : "#E06C75",
+                "bNewLine": false
+            },
+            {
+                "Message" : " if you don't use an image as its background",
+                "Color" : "#EFEFEF",
+                "bNewLine": true
+            },
+            {
+                "Message" : "   ^ Do it if you wanna make your theme work (an empty png image should be enough) ^",
+                "Color" : "#EFEFEF",
+                "bNewLine": true
+            }
+        ],
+        "3.0.4.0": [
+            {
+                "Message" : "",
+                "Color" : "#EFEFEF",
+                "bNewLine": true
+            }
+        ],
+        "3.0.3.0": [
+            {
+                "Message" : "",
+                "Color" : "#EFEFEF",
+                "bNewLine": true
+            }
+        ],
+        "3.0.2.0": [
+            {
+                "Message" : "",
+                "Color" : "#EFEFEF",
+                "bNewLine": true
+            }
+        ]
+    }
+}
